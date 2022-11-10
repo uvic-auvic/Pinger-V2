@@ -1,21 +1,22 @@
-Circuit: * C:\Users\kimiy\repos\PingerProject\Simulations\Prelim-Sim.asc
+Circuit: * C:\Pinger-V2\Simulations\Prelim-Sim.asc
 
 Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 9.85995e-012 to 5.00986e-009
 
-Date: Sat Nov 05 23:09:07 2022
-Total elapsed time: 0.686 seconds.
+Date: Wed Nov 09 22:23:41 2022
+Total elapsed time: 0.254 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 131026
-traniter = 131023
-tranpoints = 64013
-accept = 50013
-rejected = 14000
-matrix size = 7
-fillins = 1
+totiter = 114312
+traniter = 114291
+tranpoints = 28400
+accept = 20118
+rejected = 8283
+matrix size = 13
+fillins = 2
 solver = Normal
-Matrix Compiler1: 340 bytes object code size  0.1/0.1/[0.1]
-Matrix Compiler2: 477 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler1: 720 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 975 bytes object code size  0.1/0.1/[0.1]
 
