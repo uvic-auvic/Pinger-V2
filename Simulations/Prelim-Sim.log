@@ -1,22 +1,24 @@
 Circuit: * C:\Pinger-V2\Simulations\Prelim-Sim.asc
 
 Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 9.85995e-012 to 5.00986e-009
+Heightened Def Con from 5.12089e-011 to 3.05121e-009
+Heightened Def Con from 9.71071e-008 to 1.01107e-007
+Heightened Def Con from 1.0928e-007 to 1.1228e-007
 
-Date: Wed Nov 09 22:23:41 2022
-Total elapsed time: 0.254 seconds.
+Date: Sun Nov 27 19:43:07 2022
+Total elapsed time: 0.556 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 114312
-traniter = 114291
-tranpoints = 28400
-accept = 20118
-rejected = 8283
+totiter = 251732
+traniter = 251711
+tranpoints = 61000
+accept = 43019
+rejected = 17984
 matrix size = 13
 fillins = 2
 solver = Normal
-Matrix Compiler1: 720 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler1:      42 opcodes  0.1/[0.1]/0.1
 Matrix Compiler2: 975 bytes object code size  0.1/0.1/[0.1]
 
