@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Pinger-V2 PCBA Rev A
 
 [Preferences]
 PrefsVaultGUID=
@@ -151,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RLKKFLTA
 
 [Document7]
-DocumentPath=Pinger PCB Rev A.PcbDoc
+DocumentPath=Pinger-V2 PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,8 +203,8 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-UniqueID=88D08739-4587-4422-8FA5-CA79F97873B4
-Description=Pinger PCBA Rev A
+UniqueID=F0F92072-DE33-49EF-A762-4679EC552458
+Description=Pinger-V2 PCBA Rev A
 AllowFabrication=0
 ParameterCount=0
 VariationCount=0
