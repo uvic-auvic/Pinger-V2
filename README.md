@@ -4,10 +4,10 @@ An underwater acoustic pinger designed to mimic the functions of the Benthos ALP
 
 Designed by Miguel Manguerra, Kimiya Mousavi, and Kiara Berezowska in Altium and Solidworks.
 
-# Hardware Design
+## Hardware Design
 
-# Firmware Design
+## Firmware Design
 
-# Mechanical Design
+## Mechanical Design
 
 
